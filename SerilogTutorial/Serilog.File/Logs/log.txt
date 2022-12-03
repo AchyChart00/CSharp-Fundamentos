@@ -1,0 +1,13 @@
+2022-11-21 09:40:16.391 -06:00 [INF] Hello JACOB!
+2022-11-21 09:40:16.405 -06:00 [WRN] You shouldn't be allowed here
+2022-11-21 09:40:19.792 -06:00 [ERR] Something went wrong
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Serilog.File.Program.ThrowError() in E:\FullStack\CSharp\CShapCurso\SerilogTutorial\Serilog.File\Program.cs:line 30
+   at Serilog.File.Program.Main(String[] args) in E:\FullStack\CSharp\CShapCurso\SerilogTutorial\Serilog.File\Program.cs:line 18
+2022-11-21 09:41:22.903 -06:00 [DBG] Application is Starting...
+2022-11-21 09:41:22.914 -06:00 [INF] Hello JACOB!
+2022-11-21 09:41:22.917 -06:00 [WRN] You shouldn't be allowed here
+2022-11-21 09:41:25.146 -06:00 [ERR] Something went wrong
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Serilog.File.Program.ThrowError() in E:\FullStack\CSharp\CShapCurso\SerilogTutorial\Serilog.File\Program.cs:line 31
+   at Serilog.File.Program.Main(String[] args) in E:\FullStack\CSharp\CShapCurso\SerilogTutorial\Serilog.File\Program.cs:line 19

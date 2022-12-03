@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\bin\Debug\net6.0\3._EjercicicioTema1YTema2.exe
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\bin\Debug\net6.0\3._EjercicicioTema1YTema2.deps.json
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\bin\Debug\net6.0\3._EjercicicioTema1YTema2.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\bin\Debug\net6.0\3._EjercicicioTema1YTema2.dll
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\bin\Debug\net6.0\3._EjercicicioTema1YTema2.pdb
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.dll
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\refint\3._EjercicicioTema1YTema2.dll
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.pdb
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\3._EjercicicioTema1YTema2.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\3._EjercicicioTema1YTema2\3._EjercicicioTema1YTema2\obj\Debug\net6.0\ref\3._EjercicicioTema1YTema2.dll

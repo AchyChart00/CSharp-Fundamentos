@@ -1,0 +1,14 @@
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

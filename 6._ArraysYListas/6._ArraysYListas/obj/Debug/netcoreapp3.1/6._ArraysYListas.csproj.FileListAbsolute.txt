@@ -1,0 +1,14 @@
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\bin\Debug\netcoreapp3.1\6._ArraysYListas.exe
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\bin\Debug\netcoreapp3.1\6._ArraysYListas.deps.json
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\bin\Debug\netcoreapp3.1\6._ArraysYListas.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\bin\Debug\netcoreapp3.1\6._ArraysYListas.runtimeconfig.dev.json
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\bin\Debug\netcoreapp3.1\6._ArraysYListas.dll
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\bin\Debug\netcoreapp3.1\6._ArraysYListas.pdb
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.dll
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.pdb
+E:\FullStack\CSharp\CShapCurso\6._ArraysYListas\6._ArraysYListas\obj\Debug\netcoreapp3.1\6._ArraysYListas.genruntimeconfig.cache

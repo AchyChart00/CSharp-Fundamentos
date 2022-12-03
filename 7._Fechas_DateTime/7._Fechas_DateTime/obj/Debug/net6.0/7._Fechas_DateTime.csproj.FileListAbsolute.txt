@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\bin\Debug\net6.0\7._Fechas_DateTime.exe
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\bin\Debug\net6.0\7._Fechas_DateTime.deps.json
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\bin\Debug\net6.0\7._Fechas_DateTime.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\bin\Debug\net6.0\7._Fechas_DateTime.dll
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\bin\Debug\net6.0\7._Fechas_DateTime.pdb
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.dll
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\refint\7._Fechas_DateTime.dll
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.pdb
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\7._Fechas_DateTime.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\7._Fechas_DateTime\7._Fechas_DateTime\obj\Debug\net6.0\ref\7._Fechas_DateTime.dll

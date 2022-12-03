@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenciasCondicionalesYLoops", "SentenciasCondicionalesYLoops\SentenciasCondicionalesYLoops.csproj", "{1C60A5FC-A972-42E2-B3C3-BD14343E7000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C60A5FC-A972-42E2-B3C3-BD14343E7000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C60A5FC-A972-42E2-B3C3-BD14343E7000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C60A5FC-A972-42E2-B3C3-BD14343E7000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C60A5FC-A972-42E2-B3C3-BD14343E7000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61617376-715F-4BC2-A4FE-6FE09BB1DF23}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpe0ZzxSqWPZCeYOxpuSSC9yMNb0DXU21tA/qXXVN/iyTC4B8rkOE25VQUHsK5FW9w4BXot5O40xPJyD5NHORA==",
+  "success": true,
+  "projectFilePath": "E:\\FullStack\\CSharp\\CShapCurso\\SerilogTutorial\\SerilogTutorial\\Serilog.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JACOB\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\JACOB\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

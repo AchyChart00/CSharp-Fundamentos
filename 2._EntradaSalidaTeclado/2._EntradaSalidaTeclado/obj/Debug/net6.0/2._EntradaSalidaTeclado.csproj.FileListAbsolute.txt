@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\bin\Debug\net6.0\2._EntradaSalidaTeclado.exe
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\bin\Debug\net6.0\2._EntradaSalidaTeclado.deps.json
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\bin\Debug\net6.0\2._EntradaSalidaTeclado.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\bin\Debug\net6.0\2._EntradaSalidaTeclado.dll
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\bin\Debug\net6.0\2._EntradaSalidaTeclado.pdb
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.dll
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\refint\2._EntradaSalidaTeclado.dll
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.pdb
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\2._EntradaSalidaTeclado.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\2._EntradaSalidaTeclado\2._EntradaSalidaTeclado\obj\Debug\net6.0\ref\2._EntradaSalidaTeclado.dll

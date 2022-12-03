@@ -1,0 +1,36 @@
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.exe
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.deps.json
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.runtimeconfig.json
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.dll
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.pdb
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.dll
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.AssemblyInfo.cs
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.csproj.CopyComplete
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.dll
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\refint\Serilog.Console.dll
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.pdb
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.genruntimeconfig.cache
+E:\FullStack\CSharp\C# CURSO\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\ref\Serilog.Console.dll
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.exe
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.deps.json
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.dll
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Console.pdb
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.dll
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.csproj.CopyComplete
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.dll
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\refint\Serilog.Console.dll
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.pdb
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\Serilog.Console.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\SerilogTutorial\SerilogTutorial\obj\Debug\net6.0\ref\Serilog.Console.dll
