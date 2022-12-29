@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\bin\Debug\net6.0\PalabraReservadaOut.exe
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\bin\Debug\net6.0\PalabraReservadaOut.deps.json
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\bin\Debug\net6.0\PalabraReservadaOut.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\bin\Debug\net6.0\PalabraReservadaOut.dll
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\bin\Debug\net6.0\PalabraReservadaOut.pdb
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.dll
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\refint\PalabraReservadaOut.dll
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.pdb
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\PalabraReservadaOut.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\13._ParametrosPorValorYPorReferencia\PalabraReservadaOut\obj\Debug\net6.0\ref\PalabraReservadaOut.dll

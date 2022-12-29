@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\bin\Debug\net6.0\5._ModificarAccesoSealed.exe
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\bin\Debug\net6.0\5._ModificarAccesoSealed.deps.json
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\bin\Debug\net6.0\5._ModificarAccesoSealed.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\bin\Debug\net6.0\5._ModificarAccesoSealed.dll
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\bin\Debug\net6.0\5._ModificarAccesoSealed.pdb
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.dll
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\refint\5._ModificarAccesoSealed.dll
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.pdb
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\5._ModificarAccesoSealed.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\5._ModificarAccesoSealed\5._ModificarAccesoSealed\obj\Debug\net6.0\ref\5._ModificarAccesoSealed.dll

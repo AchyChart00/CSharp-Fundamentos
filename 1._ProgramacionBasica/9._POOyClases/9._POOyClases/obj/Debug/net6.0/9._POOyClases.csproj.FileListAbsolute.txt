@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\bin\Debug\net6.0\9._POOyClases.exe
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\bin\Debug\net6.0\9._POOyClases.deps.json
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\bin\Debug\net6.0\9._POOyClases.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\bin\Debug\net6.0\9._POOyClases.dll
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\bin\Debug\net6.0\9._POOyClases.pdb
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.dll
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\refint\9._POOyClases.dll
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.pdb
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\9._POOyClases.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\9._POOyClases\9._POOyClases\obj\Debug\net6.0\ref\9._POOyClases.dll
