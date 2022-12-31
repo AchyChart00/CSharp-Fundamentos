@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\bin\Debug\net6.0\10._TiposAnonimos.exe
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\bin\Debug\net6.0\10._TiposAnonimos.deps.json
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\bin\Debug\net6.0\10._TiposAnonimos.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\bin\Debug\net6.0\10._TiposAnonimos.dll
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\bin\Debug\net6.0\10._TiposAnonimos.pdb
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.dll
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\refint\10._TiposAnonimos.dll
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.pdb
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\10._TiposAnonimos.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\2._ProgramacionIntermedia\10._TiposAnonimos\10._TiposAnonimos\obj\Debug\net6.0\ref\10._TiposAnonimos.dll
