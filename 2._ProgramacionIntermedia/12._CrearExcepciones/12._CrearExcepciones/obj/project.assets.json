@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\11._TiposNullables\\11._TiposNullables\\11._TiposNullables.csproj",
-      "projectName": "11._TiposNullables",
-      "projectPath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\11._TiposNullables\\11._TiposNullables\\11._TiposNullables.csproj",
+      "projectUniqueName": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
+      "projectName": "12._CrearExcepciones",
+      "projectPath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
       "packagesPath": "C:\\Users\\jacob.sanchez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\11._TiposNullables\\11._TiposNullables\\obj\\",
+      "outputPath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jacob.sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
