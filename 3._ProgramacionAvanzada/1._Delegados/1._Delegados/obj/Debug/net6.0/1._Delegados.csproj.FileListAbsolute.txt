@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\bin\Debug\net6.0\1._Delegados.exe
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\bin\Debug\net6.0\1._Delegados.deps.json
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\bin\Debug\net6.0\1._Delegados.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\bin\Debug\net6.0\1._Delegados.dll
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\bin\Debug\net6.0\1._Delegados.pdb
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.dll
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\refint\1._Delegados.dll
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.pdb
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\1._Delegados.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\1._Delegados\1._Delegados\obj\Debug\net6.0\ref\1._Delegados.dll

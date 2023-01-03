@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "x1/ownTAFnX6/TF318i69+uMkD1xr4HI4TVoyVJx3C5FGpFRrhE+plavWSNgov4Y9jHbMwOVVCtqXXgTaQzu4Q==",
+  "dgSpecHash": "/ZAAnIazl8yZR5KIxBB+4t2VcPJEFV9xuJKs72GdkQrDqZo9BvGCvbeP+B0b/l7TjA0iVyfJqSsGAcVLk2K/mA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\FullStack\\CSharp\\CShapCurso\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JACOB\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\JACOB\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\JACOB\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\JACOB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.csproj.AssemblyReference.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.AssemblyInfoInputs.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.AssemblyInfo.cs
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.csproj.CoreCompileInputs.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\bin\Debug\net6.0\13._HttpClient.exe
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\bin\Debug\net6.0\13._HttpClient.deps.json
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\bin\Debug\net6.0\13._HttpClient.runtimeconfig.json
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\bin\Debug\net6.0\13._HttpClient.dll
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\bin\Debug\net6.0\13._HttpClient.pdb
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.dll
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\refint\13._HttpClient.dll
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.pdb
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\13._HttpClient.genruntimeconfig.cache
+E:\FullStack\CSharp\CShapCurso\3._ProgramacionAvanzada\13._HttpClient\13._HttpClient\obj\Debug\net6.0\ref\13._HttpClient.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15._SignalR", "15._SignalR\15._SignalR.csproj", "{255A4C8C-E471-44AB-A431-52CF30BCDCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{25668B25-A05F-4C3E-9AA0-371FE13F49CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255A4C8C-E471-44AB-A431-52CF30BCDCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255A4C8C-E471-44AB-A431-52CF30BCDCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255A4C8C-E471-44AB-A431-52CF30BCDCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255A4C8C-E471-44AB-A431-52CF30BCDCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25668B25-A05F-4C3E-9AA0-371FE13F49CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25668B25-A05F-4C3E-9AA0-371FE13F49CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25668B25-A05F-4C3E-9AA0-371FE13F49CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25668B25-A05F-4C3E-9AA0-371FE13F49CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D27B4C3-5A6D-417A-9EE6-2055E5F71A4C}
+	EndGlobalSection
+EndGlobal

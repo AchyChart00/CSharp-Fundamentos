@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj": {}
+    "E:\\FullStack\\CSharp\\CShapCurso\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj": {
+    "E:\\FullStack\\CSharp\\CShapCurso\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
+        "projectUniqueName": "E:\\FullStack\\CSharp\\CShapCurso\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
         "projectName": "12._CrearExcepciones",
-        "projectPath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
-        "packagesPath": "C:\\Users\\jacob.sanchez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob.sanchez\\Desktop\\Practicas\\CSharp-Fundamentos\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\obj\\",
+        "projectPath": "E:\\FullStack\\CSharp\\CShapCurso\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\12._CrearExcepciones.csproj",
+        "packagesPath": "C:\\Users\\JACOB\\.nuget\\packages\\",
+        "outputPath": "E:\\FullStack\\CSharp\\CShapCurso\\2._ProgramacionIntermedia\\12._CrearExcepciones\\12._CrearExcepciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jacob.sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JACOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,16 +45,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
